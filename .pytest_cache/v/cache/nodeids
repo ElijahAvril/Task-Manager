@@ -1,0 +1,9 @@
+[
+  "test_main.py::test_create_task_requires_auth",
+  "test_main.py::test_create_task_with_auth",
+  "test_main.py::test_login_success",
+  "test_main.py::test_login_wrong_password",
+  "test_main.py::test_register_duplicate_username",
+  "test_main.py::test_register_user",
+  "test_main.py::test_user_cannot_see_others_tasks"
+]
